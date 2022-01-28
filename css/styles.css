@@ -697,8 +697,6 @@ img {
   border-radius: 50%;
 
   cursor: pointer;
-
-  transition: fill 250ms var(--hover-efect);
 }
 
 .close-button:hover .close-icon,
@@ -711,4 +709,6 @@ img {
   height: 18px;
 
   fill: #000000;
+
+  transition: fill 250ms var(--hover-efect);
 }
